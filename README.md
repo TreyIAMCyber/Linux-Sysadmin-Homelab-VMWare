@@ -44,5 +44,3 @@ As the Sr. System Administrator, you're responsible for:
 - [x] Write bash script to monitor disk usage and restart Apache if needed
 - [x] Log all actions to `/var/log/sysadmin.log`
 
-## 📁 File Structure
-
